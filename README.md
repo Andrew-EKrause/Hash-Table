@@ -7,7 +7,7 @@ The hash table is an important data structure that is often used for encrytpion 
 **Resources for Project:**
 - Java
 - Eclipse (IDE)
-- Information on Hash Tables: https://www.tutorialspoint.com/java/java_hashtable_class.htm
+- Information on Java Hash Tables: https://www.tutorialspoint.com/java/java_hashtable_class.htm
 
 # Running / Viewing the Project
 ## Eclipse (IDE)
