@@ -38,7 +38,7 @@ The hash table is an important data structure that is often used for encrytpion 
 3. On this repository page, go to the "Code" button and click the "Download Zip" option.
 4. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
 5. Double click on the zip file to open or "unzip" it so you can access the file contents.
-6. HERE!!!In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "Hash-Table-master" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
+6. In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "Hash-Table-master" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
    -Linux and Max: http://mally.stanford.edu/~sr/computing/basic-unix.html<br/>
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
 7. Inside the "Hash-Table-master" folder on your terminal, navigate into the "src" folder.
