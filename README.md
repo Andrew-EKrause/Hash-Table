@@ -18,15 +18,16 @@ The hash table is an important data structure that is often used for encrytpion 
 3. On this repository page, go to the "Code" button and click the "Download Zip" option.
 4. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
 5. Double click on the zip file to open or "unzip" it so you can access the file contents.
-6. HERE!!!Open up Eclipse, and type "Drawing" as the name of the workspace. Then click the "launch" button.
+6. Open up Eclipse, and type "Hash-Table" as the name of the workspace. Then click the "launch" button.
 7. If any settings options appear, click the "Hide" option located in the upper righthand corner of the screen.
 8. You should now see a workspace. You will probably NOT see any files. To get the actual file content into the workspace, click on the "Import projects" option.
-9. Click the "General" dropdown arrow option. Then click "Projects from Folder or Archive". This should open a separate Eclipse window.
-10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "KrauseFirstDrawing" folder is stored. 
-11. Select the "KrauseFirstDrawing" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
+9. Click the "General" dropdown arrow option. Then double click "Projects from Folder or Archive". This should open a separate Eclipse window.
+10. In the separate Eclipse window, select the "Directory..." button. This should open your file system window. In the file system window, navigate to the location where the "Hash-Table-master" folder is stored. 
+11. Select the "Hash-Table-master" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
-13. Open the project folder that should now be in your workspace by double clicking it. Then open the "(default package)" folder by double clicking it.
-14. Next, open the "Building.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program should open a separate window with the drawing image.
+13. Open the project folder that should now be in your workspace by double clicking it. Then open the "src" folder by double clicking it and then the "(default package)" folder by double clicking it.
+14. Next, open the "HashTableDriver.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse.
+15. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate and view the text file data using the hash table in this project.
 
 ## Command Line
 1. First, make sure that you have your terminal open. Information about your terminal can be found here:<br/>
@@ -37,11 +38,12 @@ The hash table is an important data structure that is often used for encrytpion 
 3. On this repository page, go to the "Code" button and click the "Download Zip" option.
 4. Go to your "Downloads" section on your computer and place the zip file in a folder/location other than "Downloads".
 5. Double click on the zip file to open or "unzip" it so you can access the file contents.
-6. HERE!!!In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are first inside of the "Java-Drawing-master" folder and then inside of the "KrauseFirstDrawing" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
+6. HERE!!!In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "Hash-Table-master" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
    -Linux and Max: http://mally.stanford.edu/~sr/computing/basic-unix.html<br/>
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
-7. Inside the "KrauseFirstDrawing" folder on your terminal, type the following command: java Building.java.
-8. After running the command in the previous step, a new window should open with the drawing image displayed.
+7. Inside the "Hash-Table-master" folder on your terminal, type the following command: java HashTableDriver.java.
+8. After running the command in the previous step, output should be printed out on your terminal window.
+9. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate and view the text file data using your terminal.
 
 <p>&nbsp;</p>
 
