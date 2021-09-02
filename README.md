@@ -30,7 +30,7 @@ The hash table is an important data structure that is often used for encrytpion 
 11. Select the "Hash-Table-master" folder. Click "Open". This will add the path the the directory in the separate Eclipse window you have opened. 
 12. Then in the separate Eclipse window, click "Finish".
 13. Open the project folder that should now be in your workspace by double clicking it. Then open the "src" folder by double clicking it and then the "(default package)" folder by double clicking it.
-14. Next, open the "HashTableDriver.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse.
+14. Next, open the "HashTableDriver.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program should run, and you should see output in the console within Eclipse.
 15. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate / view the text file data using the hash table in this project.
 
 ## Command Line
