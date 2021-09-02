@@ -1,12 +1,13 @@
-# *Hash Table*
+# *Java Hash Table*
 
 ## Description
 **_Hash Table Data Structure Created using Java_** <br/>
-The hash table is an important data structure that is often used for encrytpion purposes in modern programming. It is also used to gather and organize data. Hash tables often reduce the amount of time taken to access data given the various classes and functions invovled with the structure. To learn more about hash tables in Java, click the following link: https://www.tutorialspoint.com/java/java_hashtable_class.htm. The hash table included in this repository was created as a project for my Software Design III (CS 340) class at the University of Wisconsin - La Crosse. I created my hash table using the Java programming language as well as an Integrated Development Environment (IDE) called Eclipse. In order to view this project, I would recommend installing the Eclipse IDE as well as Java if you do not already have these tools on your computer. If you wish simply to view the code, a simple text editor can be used. However, I would use an IDE such as Eclpse or Visual Studio Code given the amount of code in the project files.
+The hash table is an important data structure that is often used for encrytpion purposes in modern programming. It is also used to gather and organize data. Hash tables often reduce the amount of time taken to access data given the various classes and functions invovled with the structure. To learn more about hash tables in Java, click the link under the "Resources for Project" section. The hash table included in this repository was created as a project for my Software Design III (CS 340) class at the University of Wisconsin - La Crosse. I created my hash table using the Java programming language as well as an Integrated Development Environment (IDE) called Eclipse. In order to view this project, I would recommend installing the Eclipse IDE as well as Java if you do not already have these tools on your computer. If you wish simply to view the code, a simple text editor can be used. However, I would use an IDE such as Eclpse or Visual Studio Code given the amount of code in the project files.
 
 **Resources for Project:**
 - Java
 - Eclipse (IDE)
+- Information on Hash Tables: https://www.tutorialspoint.com/java/java_hashtable_class.htm
 
 # Running / Viewing the Project
 ## Eclipse (IDE)
