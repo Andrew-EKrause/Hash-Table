@@ -41,9 +41,11 @@ The hash table is an important data structure that is often used for encrytpion 
 6. HERE!!!In your opened terminal, navigate to the location where you opened the downloaded zip file and make sure you are inside of the "Hash-Table-master" folder. (If you are unsure of command line commands, see the resources provided bellow.)<br/>
    -Linux and Max: http://mally.stanford.edu/~sr/computing/basic-unix.html<br/>
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
-7. Inside the "Hash-Table-master" folder on your terminal, type the following command: java HashTableDriver.java.
-8. After running the command in the previous step, output should be printed out on your terminal window.
-9. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate / view the text file data using your terminal.
+7. Inside the "Hash-Table-master" folder on your terminal, navigate into the "src" folder.
+8. Inside of the "src" folder, type the following command: `javac HashTableDriver.java`. It is important that you include the "c" at the end of "java": `javac`.
+9. After typing the command above, type this command: `java HashTableDriver.java`. Do NOT include a "c" at the end of "java" in this command.
+10. After running the command in the previous step, output should be printed out on your terminal window.
+11. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate / view the text file data using your terminal.
 
 <p>&nbsp;</p>
 
