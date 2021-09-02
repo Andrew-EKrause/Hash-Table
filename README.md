@@ -1,8 +1,8 @@
 # *Hash Table*
 
 ## Description
-**_First Use of the Java Programming Language in College_** <br/>
-A simple drawing that is generated when running the Java program. This was the very project I made using the Java programming language. I created this project in my "Software Design I" class during my freshman year at the University of Wisconsin - La Crosse. The Java Drawing program marked the beginning of my eventful journey with not only Java, but many other programming languages. Therefore, I decided to post this freshman year project to GitHub. When run, the program opens a separate window with a drawing of a clock tower. The drawing is based on the university clock tower on my campus. The drawing was created by using Java classes, such as the Oval and Rectangle class, to generate basic shapes. The basic shapes were organized on the screen to form the drawing that is generated upon running this program.
+**_Hash Table Data Structure Created using Java_** <br/>
+The hash table is an important data structure that is often used for encrytpion purposes in modern programming. It is also used to gather and organize data. Hash tables often reduce the amount of time taken to access data given the various classes and functions invovled with the structure. To learn more about hash tables in Java, click the following link: https://www.tutorialspoint.com/java/java_hashtable_class.htm. The hash table included in this repository was created as a project for my Software Design III (CS 340) class at the University of Wisconsin - La Crosse. I created my hash table using the Java programming language as well as an Integrated Development Environment (IDE) called Eclipse. In order to view the project, I would recommend installing the Eclipse IDE as well as Java if you do not already have these tools on your computer. If you wish simply to view the code, a simple text editor can be used. However, I would use an IDE such as Eclpse or Visual Studio Code given the amount of code in the project files.
 
 **Resources for Project:**
 - Java
