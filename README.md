@@ -27,7 +27,7 @@ The hash table is an important data structure that is often used for encrytpion 
 12. Then in the separate Eclipse window, click "Finish".
 13. Open the project folder that should now be in your workspace by double clicking it. Then open the "src" folder by double clicking it and then the "(default package)" folder by double clicking it.
 14. Next, open the "HashTableDriver.java" file by clicking it. Hit the green run icon, which is a green circle with a white triangle inside of it. The program run and you should see output in the console within Eclipse.
-15. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate and view the text file data using the hash table in this project.
+15. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate / view the text file data using the hash table in this project.
 
 ## Command Line
 1. First, make sure that you have your terminal open. Information about your terminal can be found here:<br/>
@@ -43,7 +43,7 @@ The hash table is an important data structure that is often used for encrytpion 
    -Windows: https://blogs.umass.edu/Techbytes/2014/11/14/file-navigation-with-windows-command-prompt/
 7. Inside the "Hash-Table-master" folder on your terminal, type the following command: java HashTableDriver.java.
 8. After running the command in the previous step, output should be printed out on your terminal window.
-9. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate and view the text file data using your terminal.
+9. If you are curious about the provided text files (the text files that are named: "find", "out", "read", and "remove"), I encourage you to play around with the code and see how you might incorporate / view the text file data using your terminal.
 
 <p>&nbsp;</p>
 
